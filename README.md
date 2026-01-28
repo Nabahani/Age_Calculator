@@ -1,2 +1,2 @@
 ﻿# Age_Calculator
-This app is use to calculate your age
+Calculate your Age here
